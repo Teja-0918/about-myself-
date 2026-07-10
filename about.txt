@@ -1,0 +1,8 @@
+Name: Your Name
+
+College:
+VNR Vignana Jyothi Institute of Engineering and Technology
+
+About Me:
+I am a third-year B.Tech student passionate about Artificial Intelligence, Machine Learning, and Full Stack Development.
+I enjoy building real-world AI applications and continuously learning new technologies.
